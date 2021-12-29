@@ -3,7 +3,7 @@ pragma solidity ^0.8.2;
 
 /**
  * @title ERC20 Token
- * @author Ahmad Maharmeh
+ * @author catsquatch
  * @dev An ERC20 Token that is burnable, mintable, and has a max supply built
  * using openzeppelin contracts.
  */
